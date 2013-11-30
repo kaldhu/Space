@@ -1,0 +1,13 @@
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\obj\Debug\Assembly-CSharp.dll
+C:\Users\Yosef\Documents\UnityProjects\SpaceSimProto\obj\Debug\Assembly-CSharp.pdb
